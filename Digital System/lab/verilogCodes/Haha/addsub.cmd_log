@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/verilog/Haha/addsub.xst" -ofn "F:/verilog/Haha/addsub.syr" 

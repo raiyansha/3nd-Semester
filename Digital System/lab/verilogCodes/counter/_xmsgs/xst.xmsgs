@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="31" delta="old" >"F:\verilog\counter\count.v" Line 14: &lt;<arg fmt="%s" index="1">jk2</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="77" delta="old" >"F:\verilog\counter\count.v" Line 12: &lt;<arg fmt="%s" index="1">a1</arg>&gt; is illegally used in this expression.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="77" delta="old" >"F:\verilog\counter\count.v" Line 13: &lt;<arg fmt="%s" index="1">a2</arg>&gt; is illegally used in this expression.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="77" delta="old" >"F:\verilog\counter\count.v" Line 14: &lt;<arg fmt="%s" index="1">o1</arg>&gt; is illegally used in this expression.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="598" delta="old" >"F:\verilog\counter\count.v" Line 3: Module &lt;<arg fmt="%s" index="1">count</arg>&gt; ignored due to previous errors.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="598" delta="old" >"F:\verilog\counter\count.v" Line 21: Module &lt;<arg fmt="%s" index="1">jk_FF</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+

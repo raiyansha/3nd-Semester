@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/verilog/FullAdderby4bit/FA4.xst" -ofn "F:/verilog/FullAdderby4bit/FA4.syr" 
+xst -intstyle ise -ifn "F:/verilog/FullAdderby4bit/FA4.xst" -ofn "F:/verilog/FullAdderby4bit/FA4.syr" 

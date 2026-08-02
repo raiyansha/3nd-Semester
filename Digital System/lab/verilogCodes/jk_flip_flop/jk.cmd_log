@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/verilog/jk_flip_flop/jk.xst" -ofn "F:/verilog/jk_flip_flop/jk.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Habibullah/file 1 edicution/CSE 3rd semester/CSE 2112 Digital System Design Lab/verilogCodes/HA/Test_isim_beh.exe" -prj "D:/Habibullah/file 1 edicution/CSE 3rd semester/CSE 2112 Digital System Design Lab/verilogCodes/HA/Test_beh.prj" "work.Test" "work.glbl" 
